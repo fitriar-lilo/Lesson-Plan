@@ -1,0 +1,6 @@
+{
+  "name": "IGCSE 0580 Math Lesson Plan Generator",
+  "description": "Generate comprehensive, WASC-aligned IGCSE 0580 Grade 10 Math lesson plans with 5E instructional sequences, integer-focused scaffolding, real-world modern applications, and LaTeX math rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
